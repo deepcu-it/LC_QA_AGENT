@@ -1,0 +1,64 @@
+{
+  "question_id": "q_20250905_221818",
+  "session_id": "test_session",
+  "timestamp": "2025-09-05T22:18:18.268514",
+  "solution_data": {
+    "language": "Python",
+    "time_complexity": "O(n)",
+    "space_complexity": "O(1)",
+    "code": "def twoSum(nums, target): ..."
+  },
+  "all_tests_passed": true,
+  "steps_completed": [
+    {
+      "step": "input_analysis",
+      "status": "success",
+      "timestamp": "2025-09-05T22:18:18.263478",
+      "details": "Question analyzed successfully",
+      "data": {}
+    },
+    {
+      "step": "hint_generation",
+      "status": "success",
+      "timestamp": "2025-09-05T22:18:18.264514",
+      "details": "Hints generated",
+      "data": {}
+    },
+    {
+      "step": "test_case_generation",
+      "status": "success",
+      "timestamp": "2025-09-05T22:18:18.264514",
+      "details": "Test cases generated",
+      "data": {}
+    }
+  ],
+  "test_results": {
+    "brute_force_validation": {
+      "passed": 5,
+      "total": 5,
+      "pass_rate": 1.0,
+      "individual_results": [
+        {
+          "passed": true,
+          "details": "Test case 1 passed"
+        },
+        {
+          "passed": true,
+          "details": "Test case 2 passed"
+        },
+        {
+          "passed": true,
+          "details": "Test case 3 passed"
+        },
+        {
+          "passed": true,
+          "details": "Test case 4 passed"
+        },
+        {
+          "passed": true,
+          "details": "Test case 5 passed"
+        }
+      ]
+    }
+  }
+}
